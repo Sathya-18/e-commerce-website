@@ -1,0 +1,51 @@
+{
+    "groceries":[
+        {
+            "name":"Wheat floor",
+            "quantity":1,
+            "value":"kg",
+            "price":100,
+            "id":1
+        },
+        {
+            "name":"Sunflower oil",
+            "quantity":1,
+            "value":"kg",
+            "price":100,
+            "id":2
+        },
+        {
+            "name":"Coconut oil",
+            "quantity":1,
+            "value":"kg",
+            "price":100,
+            "id":3
+        }
+    ],
+    "fruits":[
+        {
+            "name": "Apple",
+            "quantity": 1,
+            "value": "kg",
+            "price": 100,
+            "id":1
+        },
+        {
+            "name": "Orange",
+            "quantity": 1,
+            "value":"kg",
+            "price": 100,
+            "id":2
+        }
+    ],
+    "vegetables":[
+        {
+            "name":"Carrot",
+            "quantity":1,
+            "value":"kg",
+            "price":80,
+            "id":1
+        }
+    ]
+
+}
